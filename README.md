@@ -243,3 +243,6 @@ This repository serves as the official landing page for Windows 8. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows 8 today!**
+
+---
+**Last updated:** 2026-09-10 20:10:41 UTC
